@@ -1,0 +1,25 @@
+name: Night Olive Forest # 테마 이름
+accent: '#196969' # UI 요소 액센트 (딥 티알)
+cursor: '#6F24BE' # 입력 커서 (진한 보라)
+background: '#072222' # 터미널 배경 (딥 다크 그린)
+foreground: '#A7BD93' # 기본 텍스트 (옥색)
+details: darker # 다크 모드 설정
+terminal_colors:
+  normal:
+    black: '#073642'
+    red: '#F0536A'
+    green: '#26C6DA'
+    yellow: '#BF67FF' # [수정] 경고 표시용 형광 보라 (Normal)
+    blue: '#452CB6'
+    magenta: '#d33682'
+    cyan: '#F0BD7A' # [의도 반영] 디렉토리 표시용 주황 계열
+    white: '#eee8d5'
+  bright:
+    black: '#0f3a3a' # normal.black보다 밝은 저채도 청록
+    red: '#ff6f86'
+    green: '#80DEEA'
+    yellow: '#E0B0FF' # [수정] 명도가 높은 형광 보라 (Bright)
+    blue: '#5435DE'
+    magenta: '#ff77c8'
+    cyan: '#6beaea' # 시안 계열 강조
+    white: '#e6ffff' # 아이스톤 화이트
