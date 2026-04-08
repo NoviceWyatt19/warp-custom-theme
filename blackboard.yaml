@@ -1,10 +1,10 @@
-name: Blackboard # Name for the theme
-accent: '#196969' # Accent color for UI elements
-cursor: '#17A4A4' # Input cursor color (optional; defaults to accent color if omitted)
-background: '#092727' # Terminal background color
-foreground: '#F3EAE7' # The foreground color
-details: darker # Whether the theme is lighter or darker
-terminal_colors: # Ansi escape colors
+name: Blackboard 
+accent: '#196969' 
+cursor: '#17A4A4' 
+background: '#092727'
+foreground: '#F3EAE7' 
+details: darker 
+terminal_colors: 
   bright:
     black: '#103d3d'
     blue: '#839496'
