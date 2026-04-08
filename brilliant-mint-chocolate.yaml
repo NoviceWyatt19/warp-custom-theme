@@ -2,24 +2,24 @@ name: Brilliant Mint Chocolate
 accent: '#2D9B8E' 
 cursor: '#2D9B8E' 
 background: '#3E3232' 
-foreground: '#E5DADA' # 가독성을 위해 살짝 더 밝게 조정
+foreground: '#E5DADA' 
 details: darker
 terminal_colors:
   normal:
-    black: '#BFA3A3'   # 제안 텍스트 가독성을 위해 배경색보다 밝게 수정
+    black: '#BFA3A3'  
     red: '#A87C7C'   
     green: '#2D9B8E' 
-    yellow: '#FFAA00' # 사용자 지정: Amber (MySQL 등)
-    blue: '#F7374F'  # 사용자 지정: Hot Red (Brew 등)
+    yellow: '#FFAA00' 
+    blue: '#F7374F'  
     magenta: '#C98DB6'
     cyan: '#3AA69A'  
     white: '#E5DADA'
   bright:
-    black: '#C9AEAE'   # 강조된 제안 텍스트용
-    red: '#C19A9A'    # Rose 톤 강화
-    green: '#42BDB0'  # 선명한 옥색
-    yellow: '#FFC84D' # normal:yellow(FFAA00)에 대응하는 밝은 노랑
-    blue: '#FF6172'   # normal:blue(F7374F)에 대응하는 밝은 레드/핑크
+    black: '#C9AEAE' 
+    red: '#C19A9A'   
+    green: '#42BDB0' 
+    yellow: '#FFC84D'
+    blue: '#FF6172'  
     magenta: '#DDA7CC'
     cyan: '#4FD1C5'
-    white: '#FFFFFF'  # 순백색으로 가독성 확보
+    white: '#FFFFFF' 
