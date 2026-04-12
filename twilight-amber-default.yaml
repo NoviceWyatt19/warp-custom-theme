@@ -1,0 +1,25 @@
+name: Twilight Amber Default
+accent: '#7EB5A6'
+cursor: '#FAF9F6' 
+background: '#1D2D50' 
+foreground: '#D1D9E1' 
+details: darker
+terminal_colors:
+  normal:
+    black: '#33425C'
+    red: '#E87A67'
+    green: '#7EB5A6'
+    yellow: '#FFB300'  
+    blue: '#E3C9A6'    
+    magenta: '#B58DB6'
+    cyan: '#64FFDA'    
+    white: '#D1D9E1'
+  bright:
+    black: '#4B5E7E'
+    red: '#FF9582'
+    green: '#96D1C1'
+    yellow: '#FFD54F'  
+    blue: '#F5E6D3'    
+    magenta: '#D8B2D9'
+    cyan: '#A7FFEB'    
+    white: '#FFFFFF'
