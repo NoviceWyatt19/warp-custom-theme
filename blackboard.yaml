@@ -1,19 +1,19 @@
 name: Blackboard 
 accent: '#196969' 
 cursor: '#17A4A4' 
-background: '#092727'
+background: '#092727' 
 foreground: '#F3EAE7' 
 details: darker 
 terminal_colors: 
   bright:
-    black: '#103d3d'
-    blue: '#839496'
-    cyan: '#93a1a1'
-    green: '#586e75'
-    magenta: '#6c71c4'
-    red: '#cb4b16'
-    white: '#fdf6e3'
-    yellow: '#657b83'
+    black: '#837374'   
+    red: '#FF7285'     
+    green: '#DAFF8B'   
+    yellow: '#DAB2FF'  
+    blue: '#33E0E0'    
+    magenta: '#FF5FB1' 
+    cyan: '#49E3D6'    
+    white: '#FFFFFF'   
   normal:
     black: '#6F5E5F'
     blue: '#17A4A4'
@@ -23,3 +23,4 @@ terminal_colors:
     red: '#F0536A'
     white: '#eee8d5'
     yellow: '#C57BF3'
+
