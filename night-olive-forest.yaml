@@ -1,9 +1,9 @@
-name: Night Olive Forest 
+name: Night Olive Forest
 accent: '#196969' 
-cursor: '#6F24BE' 
-background: '#072222'
-foreground: '#A7BD93' 
-details: darker 
+cursor: '#6F24BE'
+background: '#072222' 
+foreground: '#D3E1C7' 
+details: darker
 terminal_colors:
   normal:
     black: '#073642'
@@ -12,10 +12,10 @@ terminal_colors:
     yellow: '#BF67FF'
     blue: '#452CB6'
     magenta: '#d33682'
-    cyan: '#F0BD7A'
+    cyan: '#F0BD7A' 
     white: '#eee8d5'
   bright:
-    black: '#0f3a3a'
+    black: '#0f3a3a' 
     red: '#ff6f86'
     green: '#80DEEA'
     yellow: '#E0B0FF'
