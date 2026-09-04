@@ -1,0 +1,26 @@
+name: Boring City
+accent: "#575279"
+cursor: "#575279"
+background: "#B8BBBB"
+foreground: "#4A4568"
+details: lighter
+terminal_colors:
+  bright:
+    black: "#5F5B78"
+    blue: "#314D80"
+    cyan: "#1D524A"
+    green: "#1A5230"
+    magenta: "#7A3578"
+    red: "#8C2224"
+    white: "#3A355A"
+    yellow: "#A25510"
+  normal:
+    black: "#797593"
+    blue: "#41629E"
+    cyan: "#286E64"
+    green: "#246E41"
+    magenta: "#9B4A99"
+    red: "#B23032"
+    white: "#4A4568"
+    yellow: "#C86B18"
+
